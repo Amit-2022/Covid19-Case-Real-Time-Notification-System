@@ -7,7 +7,7 @@ Early detection of infectious diseases is crucial for reducing transmission and 
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Covid19-Case-Real-Time-Notification-System.git
+https://github.com/Amit-2022/Covid19-Case-Real-Time-Notification-System.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -43,7 +43,7 @@ python app.py
 
 
 ## Authors
-iNeuron Private limited
+Amit
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
